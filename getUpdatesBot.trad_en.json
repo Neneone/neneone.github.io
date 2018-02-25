@@ -1,0 +1,10 @@
+{
+    "background": "getUpdatesBot started in background...",
+    "update": "Starting updating getUpdatesBot...",
+    "updated": "getUpdatesBot updated!",
+    "unknown_option": "Unknown option ",
+    "starting": "getUpdatesBot is starting...",
+    "loaded": "_commands.php and _functions.php loaded.",
+    "update_fetching": "Starting receiving updates...",
+    "trad_loaded": "English translation loaded."
+}
