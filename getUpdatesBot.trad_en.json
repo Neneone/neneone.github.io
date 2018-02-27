@@ -6,5 +6,10 @@
     "starting": "getUpdatesBot is starting...",
     "loaded": "_commands.php and _functions.php loaded.",
     "update_fetching": "Starting receiving updates...",
-    "trad_loaded": "English translation loaded."
+    "trad_loaded": "English translation loaded.",
+    "dev_tools_warning": "Are you sure you want to install dev tools? Do you know what they are? ",
+    "dev_tools_installed": "Dev tools installed.",
+    "can_not_install_dev_tools": "Can't install dev tools.",
+    "install_dev_tools": "You need to install dev tools. Use php start.php install_dev_tools.",
+    "cancelled": "Cancelled."
 }
